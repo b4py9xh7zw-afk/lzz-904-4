@@ -1,0 +1,11 @@
+{
+  "host": "0.0.0.0",
+  "port": 8000,
+  "ffmpeg_bin": "bin/ffmpeg",
+  "ffprobe_bin": "bin/ffprobe",
+  "data_dir": "data",
+  "max_upload_mb": 200,
+  "preview_max_seconds": 8,
+  "result_ttl_hours": 24,
+  "allowed_ext": [".mp4", ".mov", ".avi", ".mkv", ".flv", ".ts", ".m4v", ".webm", ".wmv"]
+}
